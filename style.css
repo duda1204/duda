@@ -1,3 +1,25 @@
 body{
     background-color: #FFC8C8;
 }
+h1{
+    color: palevioletred;
+}
+h1{
+    text-align: center;
+
+}
+.img-cabeçalho{
+    color: black;
+
+}
+.item-cabeçalho{
+    color: black;
+    margin: 50px;
+    font-size: 22px;
+
+}
+.cabeçalho{
+    display: flex;
+    justify-content: space-between;
+}
+
